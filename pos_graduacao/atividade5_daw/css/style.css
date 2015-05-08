@@ -3,6 +3,7 @@
 *{ 
 	font-family: Arial, Helvetica, sans-serif;
 	padding:0;
+	
 }
 a{
 	text-decoration:none;
@@ -12,44 +13,44 @@ button{
 	cursor:pointer;
 }
 input:hover{
-	border:solid thin #666;
+	border:solid thin #667;
 }
 input:focus{
-	border:solid thin #666;
+	border:solid thin #667;
 }
 select{
 	height:32px;
-	border:solid thin #CCC;
+	border:solid thin #A0A0A0;
 	margin-bottom:7px;
 	padding-left:5px;
 	font-size:12px;
 }
 select:hover{
-	border:solid thin #666;
+	border:solid thin #667;
 }
 select:focus{
-	border:solid thin #666;
+	border:solid thin #667;
 }
 textarea:hover{
-	border:solid thin #666;
+	border:solid thin #667;
 }
 textarea:focus{
-	border:solid thin #666;
+	border:solid thin #667;
 }
 #sessao_login{
-	width:750px;
+	width:500px;
 	position:absolute;
 	left:50%;
 	margin-left:-375px;
 	margin-top:3em;
 }
 #sessao_login ul{
-	background-color:#16A085;
+	background-color:#A0A0A0;
 	padding:0;
-	width:22em;
-	height:30em;
+	width:42em;
+	height:10em;
 	list-style:none;
-	border:solid thin #FFF;
+	border:solid thin #4E5468;
 	float:left;
 }
 #sessao_login ul li{
@@ -63,7 +64,7 @@ textarea:focus{
 #sessao_login ul figure > figcaption{
 	width:100%;
 	text-align:center;
-	color:#333;
+	color:#383;
 	font-weight:bold;
 	font-size:10px;
 }
@@ -72,10 +73,10 @@ textarea:focus{
 	height:50px;
 }
 #apresentacao{
-	color:#FFF;
+	
 	font-size:12px;
 	line-height:18px;
-	border-top:solid thin #45B39D;
+	border-top:solid thin #A0A0A0;
 	width:93%;
 	padding-top:5px;
 }
@@ -84,12 +85,12 @@ textarea:focus{
 	float:right;
 }
 #sessao_login form figure{
-	text-align:center;
+	text-align:left;
 }
 #sessao_login form > input{
 	width:300px;
 	height:32px;
-	border:solid thin #CCC;
+	border-radius: 10px 20px 30px;
 	margin-bottom:7px;
 	padding-left:5px;
 }
@@ -104,8 +105,8 @@ textarea:focus{
 	width:250px;
 }
 #sessao_login form > button{
-	background-color:#16A085;
-	border:none;
+	background-color:#A0A0A0;
+	border-radius: 10px 20px 30px 40px;
 	padding:7px 10px;
 	color:#FFF;
 	font-size:12px;

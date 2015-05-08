@@ -1,3 +1,4 @@
+ 
 <ul class="ul_participantes">
 	<p class="titulos_blocos">Participantes</p>
 	<?php

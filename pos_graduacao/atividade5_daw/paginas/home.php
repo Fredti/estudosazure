@@ -1,5 +1,7 @@
 <?php
 	include('cabecalho.php');
+	header("Content-Type: text/html; charset=ISO-8859-1",true);
+	
 ?>
 
 <section class="sessao_interna">

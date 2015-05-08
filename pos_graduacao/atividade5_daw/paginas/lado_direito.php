@@ -1,3 +1,4 @@
+
 <form action="<?=$url?>/paginas/pesquisar.php" method="post" class="pesquisar">
 	<p class="titulos_blocos">Filtrar</p>
 	<input type="text" name="nome_busca" placeholder="Buscar participantes" />

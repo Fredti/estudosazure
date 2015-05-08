@@ -1,5 +1,5 @@
 	<footer>
-		Desenvlvido por: Amaury Gonçalves
+		DAW - Desenvolvimento de Aplicações Web na Nuvem - Atividade 5
 	</footer>
 
 </body>

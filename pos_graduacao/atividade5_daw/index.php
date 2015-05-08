@@ -44,9 +44,7 @@
 								</li>
 						<?	}?>
 						
-						<li id="apresentacao">
-							Somos alunos da PUC Minas pós graduandos em Desenvolvimento de Aplicações Web. Venha fazer parte, também, dessa turma.
-						</li>
+						
 					</ul>
 					
 					<form method="post" action="controller/login.php">
@@ -63,7 +61,7 @@
 						</div>
 						
 						<button type="submit">Acessar</button>
-						<a class="botao_voltar" href="<?=$url?>/paginas/cadastrar.php">Não possui conta? Cadastre-se</a>
+						<a class="botao_voltar" href="<?=$url?>/paginas/cadastrar.php">Cadastre-se</a>
 					</form>
 				</section>
 		<?php
