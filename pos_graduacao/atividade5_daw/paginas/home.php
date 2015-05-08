@@ -29,7 +29,7 @@
 				<dt>Cidade:</dt><dd><?=$cidade['nomeCidade']?></dd>
 				<dt>Estado:</dt><dd><?=$estado['nomeEstado']?></dd>
 				<dt>E-mail:</dt><dd><?=$_SESSION['login']['email']?></dd>
-				<dt>DescriÃ§Ã£o:</dt><dd><?=$_SESSION['login']['descricao']?></dd>
+				<dt>Descrição:</dt><dd><?=$_SESSION['login']['descricao']?></dd>
 			</dl>				
 		</div>
 	</div>
