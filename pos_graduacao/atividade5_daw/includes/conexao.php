@@ -2,10 +2,10 @@
 	
 	function conexao_mysql(){
 		try{
-			$host = 'localhost';
-			$usuario = 'root';
-			$senha='';
-			$banco = 'daw_yearbook';
+			$host = 'br-cdbr-azure-south-a.cloudapp.net';
+			$usuario = 'b9e1b97842c6b5';
+			$senha='5b46fe4e';
+			$banco = 'fredtidb';
 			
 			$string_conexao = "mysql:host=$host;port=$porta;dbname=$banco";
 			
