@@ -16,7 +16,7 @@ fieldset legend{
 	font-weight:bold;
 	font-size:13px;
 	padding:0 1em;
-	color:#16A085;
+	color:#21889F;
 }
 fieldset form{
 	margin-left:2em;
@@ -39,8 +39,8 @@ fieldset form > textarea{
 	font-size:12px;
 }
 fieldset form button{
-	background-color:#889294;
-	border:none;
+	background-color:#A0A0A0;;
+	border-radius: 10px 20px 30px;
 	padding:7px 10px;
 	color:#FFF;
 	font-size:12px;
@@ -48,7 +48,7 @@ fieldset form button{
 }
 fieldset form a{
 	background-color:#AAADAE;
-	border:none;
+	border-radius: 10px 20px 30px;
 	padding:8px 22px;
 	color:#FFF;
 	font-size:12px;
@@ -66,7 +66,7 @@ fieldset form label{
 	font-size:12px;
 	color:#FFF;
 	padding:1em 0;
-	border:solid thin #83898A;
+	border:solid thin #3E5FC9;
 }
 .form_cadastro figure{
 	margin:0;
