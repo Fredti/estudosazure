@@ -38,7 +38,7 @@
 				<dt>Cidade:</dt><dd><?=$cidade['nomeCidade']?></dd>
 				<dt>Estado:</dt><dd><?=$estado['nomeEstado']?></dd>
 				<dt>E-mail:</dt><dd><?=$participante['email']?></dd>
-				<dt>Descrição</dt><dd><?=$participante['descricao']?></dd>
+				<dt>Quem sou:</dt><dd><?=$participante['descricao']?></dd>
 			</dl>				
 		</div>
 	</div>
